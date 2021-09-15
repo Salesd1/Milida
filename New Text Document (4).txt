@@ -1,0 +1,22 @@
+SMBIOS.reflectHost = "TRUE"
+SMBIOS.noOEMStrings = "TRUE"
+smbios.addHostVendor = "TRUE"
+hypervisor.cpuid.v0 = "FALSE"
+vpmc.enable = "TRUE"
+vhv.enable = "TRUE"
+mce.enable = "TRUE"
+vhu.enable = "TRUE"
+
+AMD Radeon Graphics Processor (0x6699F)
+Internal DAC(400MHz)
+Radeon RX550/550 Series
+AMD, Radeon RX550/550 Series Direct3D11
+Advanced Micro Devices, Inc.
+
+VMware Virtual SVGA 3D Graphics Adapter
+nhatdong1988688@gmail.com | Lovingu@123
+
+
+services.msc
+
+
